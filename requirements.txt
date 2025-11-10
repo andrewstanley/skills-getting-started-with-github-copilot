@@ -1,2 +1,11 @@
+
+# Web framework and ASGI server
 fastapi
 uvicorn
+
+# Static files support (included in fastapi, but explicit for clarity)
+python-multipart
+
+# For running and testing (optional, but recommended for dev)
+httpx
+pytest
